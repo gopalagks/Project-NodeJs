@@ -1,0 +1,16 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0"
+  }
+}
